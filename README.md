@@ -1,6 +1,11 @@
 # raifef.github.io
 <html>
 <h1>Raife Foulkes — Research Statement (2025)</h1>
-<p><strong>Elevator:</strong> I develop error-mitigation and hardware-aware compilers for scalable quantum processors. <a href="/Lastname_Firstname_ResearchStatement_2025.pdf" download>Download research statement (PDF)</a></p>
-<p><a href="/Lastname_CV_2025.pdf" download>Download CV (PDF)</a> · <a href="mailto:your.email@inst.edu">your.email@inst.edu</a></p>
+<p>MSci Theoretical Physics student in their final year at Imperial College London with deep interest into quantum computation and
+its realisation, predicted First Class degree. Demonstrable experience in theoretical and computational physics, specialising in
+quantum physics. Familiarity with gate-based and analogue quantum algorithm design and implementation with IBM Qiskit and
+Pasqal Pulser as well as experience analysing QEC circuits using Stim and Crumble. Extensive knowledge of condensed matter
+physics. Strong communication and teamwork skills evident in my performance in oral presentations and scientific report
+writing, and excellent project management skills paired with extensive problem solving abilities and adaptability. <a href="/FoulkesResearchStatement.pdf" download>Download research statement (PDF)</a></p>
+<p><a href="/FoulkesCV.pdf" download>Download CV (PDF)</a> · <a href="mailto:raifefoulkes@gmail.com">raifefoulkes@gmail.com/a></p>
 </html>
