@@ -1,4 +1,3 @@
-# raifef.github.io
 <html>
 <h1>Raife Foulkes — Research Statement (2025)</h1>
 <p>MSci Theoretical Physics student in their final year at Imperial College London with deep interest into quantum computation and
