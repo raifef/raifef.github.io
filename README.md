@@ -7,6 +7,6 @@ quantum physics. Familiarity with gate-based and analogue quantum algorithm desi
 Pasqal Pulser as well as experience analysing QEC circuits using Stim and Crumble. Extensive knowledge of condensed matter
 physics. Strong communication and teamwork skills evident in my performance in oral presentations and scientific report
 writing, and excellent project management skills paired with extensive problem solving abilities and adaptability. </p>
-
+<p>Please find my research statement below:</p>
 <p><a href="/FoulkesResearchStatement.pdf" download>Download research statement (PDF)</a> · <a href="/FoulkesCV.pdf" download>Download CV (PDF)</a> · Email: <a href="mailto:raifefoulkes@gmail.com">raifefoulkes@gmail.com</a></p>
 </html>
